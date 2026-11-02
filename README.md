@@ -1,4 +1,4 @@
-# Data Science Project
+# Analisis Gaji, Faktor Penentu Pendapatan, dan Prediksi Gaji Pekerja Teknologi di Indonesia
 
 Repository ini berisi notebook Python untuk analisis data, eksplorasi dataset, dan visualisasi menggunakan Jupyter Notebook.
 
