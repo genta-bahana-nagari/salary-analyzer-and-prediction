@@ -40,6 +40,7 @@ dist/
 # Generated datasets and outputs
 # datasets/
 outputs/
+.~lock.*
 
 # Generated datasets and outputs
 trial_error
