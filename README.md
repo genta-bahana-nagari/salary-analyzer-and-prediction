@@ -33,9 +33,9 @@ Pastikan perangkat sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/genta-bahana-nagari/REPOSITORY.git
+git clone https://github.com/genta-bahana-nagari/salary-analyzer-and-prediction.git
 
-cd REPOSITORY
+cd salary-analyzer-and-prediction
 ```
 
 ### 2. Create Virtual Environment
