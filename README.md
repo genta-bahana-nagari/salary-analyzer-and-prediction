@@ -5,16 +5,20 @@ Repository ini berisi notebook Python untuk analisis data, eksplorasi dataset, d
 ## Project Structure
 
 ```text
-my-data-science/
-├── datasets/
-│   └── dataset.csv
-│
-├── notebook/
-│   └── 01-visual.ipynb
-│
+salary-analyzer-and-prediction/
+├── datasets
+│   ├── dataset.csv
+│   └── dataset_clean.csv
+├── notebook
+│   ├── 00_data_landing_and_overview_v1.ipynb
+│   ├── 00_job_title_normalization.ipynb
+│   ├── 01_data_landing_and_overview_v2.ipynb
+│   ├── 02_eda_and_visualization.ipynb
+│   ├── 03_salary_prediction_model_fix.ipynb
+│   └── 04_visualize_salary_prediction.ipynb
 ├── .gitignore
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## Requirements
@@ -159,4 +163,4 @@ Jika kernel belum muncul, jalankan kembali perintah registrasi Jupyter Kernel.
 
 ## License
 
-Specify your project license here.
+Tidak ada lisensi, silakan gunakan untuk belajar dan eksplorasi dengan bijak.
